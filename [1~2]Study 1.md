@@ -12,4 +12,4 @@
 - 후퇴, 퇴보, 회귀 (x) >> 전체평균으로 돌아가려 한다(?)
 ## Linear Regression
 - 데이터를 잘 대변하는 직선의 방정식을 찾는 것  
-![Linear Regession](C:\Users\alex6\OneDrive\문서\코딩\텐서플로우\사진\Linear_regression)
+![hello](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg)
