@@ -33,3 +33,7 @@
 1. 추정을 통한 값 예측
 2. W,b 지속적 업데이트 > cost 최소화 방향으로 
 3. cost 최소화 판단까지 반복
+
+# 3강 실습 
+# import numpy?
+-numpy.linspace
