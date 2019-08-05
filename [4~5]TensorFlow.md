@@ -23,4 +23,4 @@
 # 6강 - Softmax Regression
 ## Multinomial classification 
 ## Sigmoid  
-![SOFTMAX](C:\Users\alex6\OneDrive\문서\코딩\텐서플로우\사진\softmax.jpg)
+![](https://user-images.githubusercontent.com/47270758/62478373-ec380980-b7e5-11e9-9cd5-153d667101ed.PNG "softmax")
