@@ -17,4 +17,10 @@
 ## Hypothesis Representation
 - hypothesis = tf.sigmoid(z)
 > 여기부터골때리네
-> 대충 알겠는데 거지같다 다음시간은 클래스가 추가되네 오바다
+> 대충 알겠는데 거지같다 다음시간은 클래스가 추가되네 오바다  
+> 무적권 다시들어라
+
+# 6강 - Softmax Regression
+## Multinomial classification 
+## Sigmoid  
+![SOFTMAX](C:\Users\alex6\OneDrive\문서\코딩\텐서플로우\사진\softmax.jpg)
