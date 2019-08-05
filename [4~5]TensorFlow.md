@@ -21,6 +21,6 @@
 > 무적권 다시들어라
 
 # 6강 - Softmax Regression
-## Multinomial classification 
-## Sigmoid  
 ![](https://user-images.githubusercontent.com/47270758/62478373-ec380980-b7e5-11e9-9cd5-153d667101ed.PNG "softmax")
+## Multinomial classification
+##Cost function
