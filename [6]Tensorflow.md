@@ -11,5 +11,7 @@
  - Cost function: cross entropy  
 ![softcosttf](https://user-images.githubusercontent.com/47270758/62519479-9e171a80-b866-11e9-9cf6-1a8b0dbed195.PNG)
 
-# Lab 6-2 - Softmax Classifier (fancy ver)  
-# :Animal classification
+# Lab 6-2 - Softmax Classifier (fancy ver)  :Animal classification
+## Softmax function
+- hypothesis = tf.nn.softmax(tf.matmal(X,W)+b) 
+## Softmax_cross_entropy_with_logits
