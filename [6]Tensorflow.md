@@ -12,4 +12,4 @@
 ![softcosttf](https://user-images.githubusercontent.com/47270758/62519479-9e171a80-b866-11e9-9cf6-1a8b0dbed195.PNG)
 
 # Lab 6-2 - Softmax Classifier (fancy ver)  
-:Animal classification
+# :Animal classification
