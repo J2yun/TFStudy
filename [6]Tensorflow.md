@@ -14,4 +14,5 @@
 # Lab 6-2 - Softmax Classifier (fancy ver)  :Animal classification
 ## Softmax function
 - hypothesis = tf.nn.softmax(tf.matmal(X,W)+b) 
-## Softmax_cross_entropy_with_logits
+## Softmax_cross_entropy_with_logits  
+![SoftmaxWithLogic](https://user-images.githubusercontent.com/47270758/62520500-b25c1700-b868-11e9-8448-a298b4e9ce8b.PNG)
