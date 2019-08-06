@@ -20,14 +20,5 @@
 > 대충 알겠는데 거지같다 다음시간은 클래스가 추가되네 오바다  
 > 무적권 다시들어라
 
-# 6강 - Softmax Regression
-![](https://user-images.githubusercontent.com/47270758/62478373-ec380980-b7e5-11e9-9cd5-153d667101ed.PNG "softmax")
-## Multinomial classification
-## Cost function
-![](https://user-images.githubusercontent.com/47270758/62479001-759c0b80-b7e7-11e9-8376-1cd30b16fde3.PNG)
 
- # 6강 실습
- ## np.asarray(x_data, dtype=np.float32) -> 무슨의미인지 알아보기
- ## Softmax function
- - hypothesis = tf.nn.softmax(tf.matmal(X,W)+b)  
- - Cost function: cross entropy
+
