@@ -8,13 +8,13 @@
 
 ## Data preprocessing
 - Feature Scaling - Normalization
-- Noisy Data(쓸모없는 데이터)
+- Noisy Data (쓸모없는 데이터)
 
 ## Overfitting
 - Set a features 
   1. Get more training data
   2. Smaller set of features (차원 줄이기) - (PCA)
-  ![PCAcode](https://user-images.githubusercontent.com/47270758/62683807-4f01ee80-b9fa-11e9-9244-b58ee1955871.PNG"PCA 알아보기")
+  ![PCAcode](https://user-images.githubusercontent.com/47270758/62683807-4f01ee80-b9fa-11e9-9244-b58ee1955871.PNG "PCA 알아보기")
   3. Add additional features
 - Regularization (Add term to loss)  
 ![Regularization](https://user-images.githubusercontent.com/47270758/62684256-40680700-b9fb-11e9-917f-fa655c3c8a02.PNG)
@@ -24,3 +24,5 @@
   3. More data (Data Augmentation)
   4. Dropout (0.5 id common)
   5. Batch Normalization
+
+# L2_Loss 함수 
