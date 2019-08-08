@@ -23,6 +23,6 @@
   2. Regularization - 정교화
   3. More data (Data Augmentation)
   4. Dropout (0.5 id common)
-  5. Batch Normalization
+  5. Batch Normalization  
 
-# L2_Loss 함수 
+ 
